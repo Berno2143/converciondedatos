@@ -15,6 +15,14 @@ public class ConversionDatos {
 		* short 16 bits
 		* int 32 bits
 		* long 64 bits
+		* 
+		*  Operadores Logicos
+		*  !
+		*  |
+		*  &
+		*  ||
+		*  &&
+		*  
 		*/
 		byte numeropequeno = 122;
 		byte otronumeropequeno = 122;
